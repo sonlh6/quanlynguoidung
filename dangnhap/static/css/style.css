@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+body{
+    height: 100%;
+    margin: 0;
+}
+.hinhnen{
+    background: url("/static/my_app/example.jpg") 50% 0 no-repeat fixed;
+    background-size: cover;
+    height: 100%;
+}   
